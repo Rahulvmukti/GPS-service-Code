@@ -22,4 +22,5 @@ To run this application, make sure the following are installed on your machine:
 2. add in service using below command
    "C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe" "service path"
 3. add connection string in app.config file
-
+4. Start service
+5. Set with Automated
